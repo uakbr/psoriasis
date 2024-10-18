@@ -1,6 +1,8 @@
 # Bimekizumab and Deucravacitinib: Mechanism of Action in Psoriasis Treatment
 
-This article outlines the mechanisms of action for two psoriasis treatments: Bimekizumab and Deucravacitinib. Before we explore these novel therapies, it's important to note that psoriasis is particularly difficult to treat due to its complex interplay of genetic factors, environmental triggers, and immune system dysregulation. The disease manifests as chronic inflammation and hyperproliferation of keratinocytes, leading to thick, scaly skin plaques. Multiple immune pathways contribute to its pathogenesis, making it challenging to find effective treatments without significant side effects. Included is a treatment chart commonly referenced by dermatologists from UpToDate, highlighting current therapeutic approaches.
+This article outlines the mechanisms of action for two psoriasis treatments: **Bimekizumab** and **Deucravacitinib**. 
+
+Before we explore these novel therapies, it's important to note that psoriasis is particularly difficult to treat due to its complex interplay of genetic factors, environmental triggers, and immune system dysregulation. The disease manifests as chronic inflammation and hyperproliferation of keratinocytes, leading to thick, scaly skin plaques. Multiple immune pathways contribute to its pathogenesis, making it challenging to find effective treatments without significant side effects. Included is a treatment chart commonly referenced by dermatologists from UpToDate, highlighting current therapeutic approaches.
 
 ![Aprtxchrnplqpsorisadlt](https://github.com/user-attachments/assets/4556013b-cf22-4a79-b389-1e16fc4e9122)
 
